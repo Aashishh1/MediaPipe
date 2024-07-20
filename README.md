@@ -21,7 +21,8 @@
 <br>
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/8c1ad3bc-bef2-428d-a68c-d1324f643c50" width=350 height=270></td>
-    <td><img src="https://github.com/user-attachments/assets/97ce4552-80ab-46df-9c71-c973e48d4df7" width=350 height=270></td>
+<td class="square-cell"></td>
+    <td><img src="https://github.com/user-attachments/assets/8c1ad3bc-bef2-428d-a68c-d1324f643c50"> </td>
+    <td><img src="https://github.com/user-attachments/assets/97ce4552-80ab-46df-9c71-c973e48d4df7"> </td>
   </tr>
  </table>
