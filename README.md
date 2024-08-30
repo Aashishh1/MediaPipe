@@ -1,5 +1,5 @@
 
-
+<div align='center'><img style="width:30%" src='https://github.com/user-attachments/assets/07fb332e-0f6a-46ed-a623-030c8d2df338'/></div>
 
 <div align='center'> <h1> MediaPipe Pose-Landmarks </h1> </div>
 
